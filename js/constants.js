@@ -108,14 +108,7 @@ export const MESSAGES = [
     'I KNEW I WAS GOING TO',
     'WIN BUT YOU LEARN TO',
     'SQUEEZE EVERY CENT OUT',
-    '- JACOB',
-    ''
-  ],
-  [
-    '',
-    'I LOVE TINY',
-    'SAUSAGES',
-    '- WREN',
+    '- JACOB BEZOS',
     ''
   ],
   [
@@ -205,7 +198,7 @@ export const MESSAGES = [
   [
     'IN THE RESTROOM...',
     'WE ARE ALL',
-    'MONSTERS.',
+    'MONSTERS',
     '- JACOB',
     ''
   ],
@@ -225,7 +218,7 @@ export const MESSAGES = [
   ],
   [
     'I GET WHY CHRIS',
-    'LIKES THIS MOVIE,',
+    'LIKES THIS MOVIE',
     'ITS ABOUT A DEPRESSED',
     'GUY WHO LOSES IT ALL',
     '- EDDIE'
@@ -275,7 +268,7 @@ export const MESSAGES = [
   [
     '',
     'IM GONNA',
-    'MILK YOU.',
+    'MILK YOU',
     '- WREN',
     ''
   ],
@@ -309,15 +302,15 @@ export const MESSAGES = [
   ],
   [
     'YOU MIGHT WANT TO',
-    'GET A NEW FORK.',
+    'GET A NEW FORK',
     'DOGS AND CATS COME',
-    'ON THIS TABLE.',
+    'ON THIS TABLE',
     '- WREN'
   ],
   [
     '',
     'IT WAS A GOOD DAY',
-    'FOR A FUNERAL.',
+    'FOR A FUNERAL',
     '- WREN',
     ''
   ],
@@ -345,7 +338,7 @@ export const MESSAGES = [
   [
     '',
     'AND MY WOOD',
-    'IS DRY SO.',
+    'IS DRY SO',
     '- WREN',
     ''
   ],
