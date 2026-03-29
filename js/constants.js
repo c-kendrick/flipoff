@@ -149,8 +149,8 @@ export const MESSAGES = [
   [
     '',
     'WE ARE NO STRANGERS',
-    'TO POO. EVERYONE',
-    'HAS TO DO IT.',
+    'TO POO EVERYONE',
+    'HAS TO DO IT',
     '- ED'
   ],
   [
