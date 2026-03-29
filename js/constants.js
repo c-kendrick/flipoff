@@ -40,6 +40,83 @@ export const MESSAGES = [
     'OATMEAL INTO POO',
     '- WREN',
     ''
+  ], 
+  [
+    '',
+    'PLIPPITY',
+    'PLOPPITY',
+    '- ED',
+    ''
+  ],
+  [
+    '',
+    'JACOB: WINS',
+    'JACOB: FARTS',
+    '',
+    ''
+  ],
+  [
+    '',
+    'OH NO HES',
+    'INSPIRED AGAIN',
+    '- ED',
+    ''
+  ],
+  [
+    'WITH THE ADVENT OF',
+    'FIRE WE COLONISED',
+    'THE NIGHT',
+    '- WREN',
+    ''
+  ],
+  [
+    '',
+    'PISS IS STORED',
+    'IN THE BALLS',
+    '- WREN',
+    ''
+  ],
+  [
+    '',
+    'IM NOT FALLING',
+    'FOR THAT AGAIN',
+    '- ED',
+    ''
+  ],
+  [
+    '',
+    'YOUR WORDS SPEAK',
+    'LOUDER THAN SILENCE',
+    '- ED',
+    ''
+  ],
+  [
+    '',
+    'SAUSAGES WERE INVOLVED',
+    'WAIT HANG ON',
+    '- WREN',
+    ''
+  ],
+  [
+    '',
+    'IM ON',
+    'BOTTOM DUTY',
+    '- ED',
+    ''
+  ],
+  [
+    'I KNEW I WAS GOING TO',
+    'WIN BUT YOU LEARN TO',
+    'SQUEEZE EVERY CENT OUT',
+    '- JACOB',
+    ''
+  ],
+  [
+    '',
+    'I LOVE TINY',
+    'SAUSAGES',
+    '- WREN',
+    ''
   ],
   [
     '',
@@ -50,16 +127,9 @@ export const MESSAGES = [
   ],
   [
     '',
-    'REAL QUESTION IS,',
+    'REAL QUESTION IS',
     'WHY IS THE RAIN',
     'YELLOW?',
-    '- WREN'
-  ],
-  [
-    'I WAS GONNA MAKE',
-    'A JOKE BUT YOUR',
-    'MOTHER IS SUCH A',
-    'NICE LADY',
     '- WREN'
   ],
   [
@@ -99,17 +169,17 @@ export const MESSAGES = [
   ],
   [
     '',
-    'HAVE... HAVE YOU',
-    'TRIED WEED?',
-    '- JACOB',
-    ''
-  ],
-  [
-    '',
     'OOP JUST PICKED UP',
     'A COW CATCHER...',
     '- WREN',
     ''
+  ],
+ [
+    'I WAS GONNA MAKE',
+    'A JOKE BUT YOUR',
+    'MOTHER IS SUCH A',
+    'NICE LADY',
+    '- WREN'
   ],
   [
     '',
@@ -154,7 +224,7 @@ export const MESSAGES = [
     ''
   ],
   [
-    'I GET WHY WREN',
+    'I GET WHY CHRIS',
     'LIKES THIS MOVIE,',
     'ITS ABOUT A DEPRESSED',
     'GUY WHO LOSES IT ALL',
@@ -191,7 +261,7 @@ export const MESSAGES = [
   [
     '',
     'JUST GOT A FANTASTIC',
-    'VIEW OF WREN',
+    'VIEW OF CHRIS',
     '- ED',
     ''
   ],
