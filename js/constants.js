@@ -379,20 +379,6 @@ export const MESSAGES = [
   ],
   [
     '',
-    'THERES A LOT OF',
-    'WOMEN I HATE',
-    '- EDDIE',
-    ''
-  ],
-  [
-    'TURNS OUT WE WERE',
-    'THE TWINKS ALL ALONG.',
-    'DAMN I JUST GOT',
-    'DONKED BY DICKS.',
-    '- EDDIE'
-  ],
-  [
-    '',
     'YOU ARE AN ANT',
     'BENEATH MY BOOT!!!',
     '- JACOB',
@@ -415,14 +401,7 @@ export const MESSAGES = [
   [
     'ROADKILL BUTTHOLE',
     'IS THE NAME OF MY',
-    'NEW ROCK BAND.',
-    '- JACOB',
-    ''
-  ],
-  [
-    '',
-    'I LITERALLY HAD',
-    'A DREAM WITH YOU',
+    'NEW ROCK BAND',
     '- JACOB',
     ''
   ],
